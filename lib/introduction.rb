@@ -5,7 +5,7 @@
 name="tenzin"
 language="Ruby"
 
-def introduction(name)
+def #introduction(name)
   puts "Hi my namne is #{name}"
 end
 
